@@ -243,8 +243,8 @@ if __name__ == "__main__":
     #random.seed(23)
 
     img_names = ["AICS-10_48_4.ome.tif", "AICS-10_40_1.ome.tif", "AICS-10_63_6.ome.tif", "AICS-10_33_7.ome.tif",
-                  "AICS-10_3_7.ome.tif", "AICS-10_34_5.ome.tif", "AICS-10_42_6.ome.tif", "AICS-10_70_4.ome.tif",
-                 "AICS-10_55_2.ome.tif", "AICS-10_46_1.ome.tif",] #!!! "AICS-10_28_1.ome.tif", "AICS-10_52_1.ome.tif",
+                  "AICS-10_3_7.ome.tif",] #"AICS-10_34_5.ome.tif", "AICS-10_42_6.ome.tif", "AICS-10_70_4.ome.tif",
+                 #"AICS-10_55_2.ome.tif", "AICS-10_46_1.ome.tif",] # end here!!! "AICS-10_28_1.ome.tif", "AICS-10_52_1.ome.tif",
                  # "AICS-10_82_1.ome.tif", "AICS-10_47_2.ome.tif", "AICS-10_31_1.ome.tif", "AICS-10_32_5.ome.tif",
                  # "AICS-10_59_9.ome.tif", "AICS-10_34_6.ome.tif", "AICS-10_68_4.ome.tif", "AICS-10_37_2.ome.tif",
                  # "AICS-10_54_2.ome.tif", "AICS-10_36_1.ome.tif", "AICS-10_29_1.ome.tif", "AICS-10_47_1.ome.tif",
